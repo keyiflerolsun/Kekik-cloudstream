@@ -11,7 +11,7 @@ import com.lagradost.cloudstream3.utils.AppUtils.toJson
 import com.lagradost.cloudstream3.utils.AppUtils.tryParseJson
 
 class HQPorner : MainAPI() {
-    override var mainUrl              = "https://hqporner.com"
+    override var mainUrl              = "https://m.hqporner.com"
     override var name                 = "HQPorner"
     override val hasMainPage          = true
     override var lang                 = "en"
