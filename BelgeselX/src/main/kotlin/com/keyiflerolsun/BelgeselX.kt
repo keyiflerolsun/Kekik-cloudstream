@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
 class BelgeselX : MainAPI() {
-    override var mainUrl              = "https://belgeselx.com"
+    override var mainUrl              = "https://belgeselx.com/cgi-sys/suspendedpage.cgi"
     override var name                 = "BelgeselX"
     override val hasMainPage          = true
     override var lang                 = "tr"
